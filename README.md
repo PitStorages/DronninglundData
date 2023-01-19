@@ -9,7 +9,7 @@ It uses as input the raw data for 2014 (**Dronninglund_raw_data_2014**) and qual
 
 #### [Dronninglund_flow_directions_GitHub](https://github.com/PitStorages/DronninglundData/blob/main/notebooks/Dronninglund_flow_directions_GitHub.ipynb)
 
-The flow rates and directions reported in the original dataset were found to be erroneous and did not maintain flow balance. For this reason, this notebook uses the data file **Dronninglund_treated_data_2014** as input and calculates the flow magnitudes and directions based on the energy and mass-flow balance of the storage. The results are saved in a new data-file named **Dronninglund_treated_data_and_flow_rates_2014**. More details on the method used for calculating the flow rates can be found in the previously mentioned under-review journal.
+The flow rates and directions reported in the original dataset were found to be erroneous and did not maintain flow balance. For this reason, this notebook uses the data file **Dronninglund_treated_data_2014** as input and calculates the flow magnitudes and directions based on the energy and mass-flow balance of the storage. The results are saved in a new data-file named **Dronninglund_treated_data_and_flow_rates_2014**. More details on the method used for calculating the flow rates can be found in the previously mentioned journal article.
 
 
 #### [Dronninglund_example_plots_GitHub](https://github.com/PitStorages/DronninglundData/blob/main/notebooks/Dronninglund_example_plots_GitHub.ipynb)
