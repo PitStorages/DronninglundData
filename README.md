@@ -4,7 +4,7 @@ In the folder **notebooks** there are scripts for quality-controlling data from 
 
 #### [Dronninglund_data_treatment_GitHub](https://github.com/PitStorages/DronninglundData/blob/main/notebooks/Dronninglund_data_treatment_GitHub.ipynb)
 
-It uses as input the raw data for 2014 (**Dronninglund_raw_data_2014**) and quality-controls the data as described in the under revision manuscript *"Dronninglund water pit thermal energy storage dataset"*. The outcome of this notebook is a new dataset named **Dronninglund_treated_data_2014**.
+It uses as input the raw data for 2014 (**Dronninglund_raw_data_2014**) and quality-controls the data as described in the published article [Dronninglund water pit thermal energy storage dataset](https://www.sciencedirect.com/science/article/pii/S0038092X22009252). The outcome of this notebook is a new dataset named **Dronninglund_treated_data_2014**.
 
 
 #### [Dronninglund_flow_directions_GitHub](https://github.com/PitStorages/DronninglundData/blob/main/notebooks/Dronninglund_flow_directions_GitHub.ipynb)
